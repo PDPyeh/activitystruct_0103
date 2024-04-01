@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemDasStruktur", "PemDasStruktur\PemDasStruktur.vcxproj", "{68898A04-CE8D-4B80-A248-9A0EC2A13DF3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Struktur2", "Struktur2\Struktur2.vcxproj", "{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{68898A04-CE8D-4B80-A248-9A0EC2A13DF3}.Release|x64.Build.0 = Release|x64
 		{68898A04-CE8D-4B80-A248-9A0EC2A13DF3}.Release|x86.ActiveCfg = Release|Win32
 		{68898A04-CE8D-4B80-A248-9A0EC2A13DF3}.Release|x86.Build.0 = Release|Win32
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Debug|x64.ActiveCfg = Debug|x64
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Debug|x64.Build.0 = Debug|x64
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Debug|x86.ActiveCfg = Debug|Win32
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Debug|x86.Build.0 = Debug|Win32
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Release|x64.ActiveCfg = Release|x64
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Release|x64.Build.0 = Release|x64
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Release|x86.ActiveCfg = Release|Win32
+		{81BD25D0-C29E-4728-B3EA-C94F98BE3C47}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
