@@ -21,7 +21,7 @@ int main() {
 	cout << "Nama Mahasiswa = ";
 	getline(cin, mhs.nama);
 
-	cout << "Alamat Mahasiswa = ";
+	cout << "Alamat Mahasiswa = " << endl;
 	cout << "\t nama Desa = ";
 	cin >> mhs.alamat.desa;
 	cout << "\t nama Kota = ";
